@@ -1,6 +1,6 @@
 class Mentor
     
-    attr_accessor　:name
+   attr_accessor :name
     def initialize(name)
        self.name = name
     end
